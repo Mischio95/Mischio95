@@ -27,8 +27,6 @@ Explore the game developed for this hackathon by downloading it from the link be
 
 - [Download Elo Hell](https://www.foreachsoftware.it/elohell/)
 
--
-
 ### 🚀 Apple Developer Academy Final Project
 
 **Destiny's Altered Order**  
