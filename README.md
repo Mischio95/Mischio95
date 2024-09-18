@@ -1,4 +1,5 @@
 # Welcome to my profile!
+<br />
 
 <p align="center"><a href="https://micheletrombone.netsons.org"><img width="60%" alt="Hello, I'm Michele Trombone. I do open source!" src="./Assets/headertop.png" /></a></p>
 
@@ -15,5 +16,34 @@ During the 9-month course at the Apple Developer Academy, I specialized in game 
 For me, teamwork is fundamental. I have experienced this in my past jobs as well, and I believe that by collaborating we can reach our full potential in a project.
 
 I am excited to continue to grow professionally in this fascinating and dynamic field.
+
+## 🎮 Games
+
+### Hackathon - Mobile Game Development (bitdrome - MKERS)
+
+**Elo Hell | October 20 - November 10, 2023**  
+Developed a demo of a mobile game with Unity.  
+**Technologies:** C#, PlasticSCM, Unity Engine
+
+You can download and try out the game developed for this hackathon from the link below:
+
+- **[Download the Hackathon Game](https://www.foreachsoftware.it/elohell/)**
+
+### Apple Developer Academy Final Project
+
+**Destiny's Altered Order**  
+A 2D role-playing game for mobile devices developed with Unity.  
+**Technologies:** C#, PlasticSCM, Unity Engine
+
+My team, "Crow Crew," was featured in an article on La Repubblica during the Graduation Day at the Apple Developer Academy. We presented our game, which was selected as one of the top projects in the final challenge of the academic year.
+
+You can download the final project from the link below:
+
+- **[Download the Apple Developer Academy Final Project](https://www.foreachsoftware.it/dao-appleacademy2023/)**
+
+---
+
+For any questions or feedback, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
+
 
 
