@@ -1,8 +1,10 @@
 # Welcome to my profile!
 
-<p align="center"><a href="https://micheletrombone.netsons.org"><img width="80%" alt="Hello, I'm Michele Trombone. I do open source!" src="./Assets/headertop.png" /></a></p>
+<p align="center"><a href="https://micheletrombone.netsons.org"><img width="60%" alt="Hello, I'm Michele Trombone. I do open source!" src="./Assets/headertop.png" /></a></p>
 
 <br />
+
+## About Me!
 
 Hi! I'm Michele Trombone, a developer who is passionate about technology and programming, with a special interest in the world of video games and all that surrounds it. I enjoy exploring various aspects of the industry, from game design to creating immersive experiences, including the importance of audio and music. This passion for technology drives me to seek opportunities in different fields, contributing to projects of various types.
 
