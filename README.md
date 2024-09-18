@@ -1,4 +1,4 @@
-<p align="center"><a href="https://micheletrombone.netsons.org"><img width="80%" alt="Hello, I'm Michele Trombone. I do open source!" src="./Assets/header github.png" /></a></p>
+<p align="center"><a href="https://micheletrombone.netsons.org"><img width="80%" alt="Hello, I'm Michele Trombone. I do open source!" src="./Assets/headertop.png" /></a></p>
 
 <br />
 
