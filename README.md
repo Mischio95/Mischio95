@@ -17,29 +17,31 @@ For me, teamwork is fundamental. I have experienced this in my past jobs as well
 
 I am excited to continue to grow professionally in this fascinating and dynamic field.
 
-## <span style="color: #dfdad8;"> 🎮 Games </span>
+## 🎮 Games
 
-### <span style="color: #dfdad8;">Hackathon - Mobile Game Development (bitdrome - MKERS)</span>
+### 🌟 Hackathon - Mobile Game Development (bitdrome - MKERS)
 
 **Elo Hell | October 20 - November 10, 2023**  
 Developed a demo of a mobile game with Unity.  
 **Technologies:** C#, PlasticSCM, Unity Engine
 
-You can download and try out the game developed for this hackathon from the link below:
+Explore the game developed for this hackathon by downloading it from the link below:
 
-- **[Download the Hackathon Game](https://www.foreachsoftware.it/elohell/)**
+- [Download Elo Hell](https://www.foreachsoftware.it/elohell/)
 
-### <span style="color: #dfdad8;">Apple Developer Academy Final Project</span>
+---
+
+### 🚀 Apple Developer Academy Final Project
 
 **Destiny's Altered Order**  
 A 2D role-playing game for mobile devices developed with Unity.  
 **Technologies:** C#, PlasticSCM, Unity Engine
 
-My team, "Crow Crew," was featured in an article on La Repubblica during the Graduation Day at the Apple Developer Academy. We presented our game, which was selected as one of the top projects in the final challenge of the academic year.
+My team, **"Crow Crew,"** was featured in an article on La Repubblica during the Graduation Day at the Apple Developer Academy. We proudly presented our game, which was selected as one of the top projects in the final challenge of the academic year.
 
-You can download the final project from the link below:
+Check out the final project by downloading it from the link below:
 
-- **[Download the Apple Developer Academy Final Project](https://www.foreachsoftware.it/dao-appleacademy2023/)**
+- [Download Destiny's Altered Order](https://www.foreachsoftware.it/dao-appleacademy2023/)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/michele_trombone#9380) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/orleonx_dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/orleonedev) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@micheletrombone)
