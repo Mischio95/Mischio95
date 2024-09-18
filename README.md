@@ -24,8 +24,9 @@ Developed a demo of a mobile game with Unity.
 **Technologies:** C#, PlasticSCM, Unity Engine
 
 Explore the game developed for this hackathon by downloading it from the link below:
-
+```bash
 - [Download Elo Hell](https://www.foreachsoftware.it/elohell/)
+```
 
 ## 🚀 Apple Developer Academy Final Project
 
@@ -37,7 +38,9 @@ My team, **"Crow Crew,"** was featured in an article on La Repubblica during the
 
 Check out the final project by downloading it from the link below:
 
+```bash
 - [Download Destiny's Altered Order](https://www.foreachsoftware.it/dao-appleacademy2023/)
+```
 
 # 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/michele_trombone#9380) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/michele_trombone/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michele-trombone-470458233) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@micheletrombone) [![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=internet-explorer&logoColor=white)](https://www.micheletrombone.netsons.org)
