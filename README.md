@@ -31,11 +31,12 @@ For me, teamwork is fundamental. I have experienced this in my past jobs as well
 I am excited to continue to grow professionally in this fascinating and dynamic field.
 
 # 🎮 Games
+
 # 🌟 Hackathon - Mobile Game Development (bitdrome - MKERS)
 
-<table>
+<table width="100%">
 <tr>
-<td>
+<td width="60%">
 
 **Elo Hell | October 20 - November 10, 2023**  
 Developed a demo of a mobile game with Unity.  
@@ -43,7 +44,7 @@ Developed a demo of a mobile game with Unity.
 
 </td>
 <td align="center">
-<a href="https://micheletrombone.netsons.org">
+<a href="https://www.foreachsoftware.it/elohell/">
 <img width="250px" alt="Elo Hell!" src="./Assets/dao.png" />
 </a>
 </td>
@@ -56,24 +57,25 @@ Explore the game developed for this hackathon by downloading it from the link be
 https://www.foreachsoftware.it/elohell/
 ```
 
-### 🌟 Hackathon - Mobile Game Development (bitdrome - MKERS)
-<p align="center"><a href="https://micheletrombone.netsons.org"><img width="35%" alt="Elo Hell!" src="./Assets/dao.png" /></a></p>
-**Elo Hell | October 20 - November 10, 2023**  
-Developed a demo of a mobile game with Unity.  
-**Technologies:** C#, PlasticSCM, Unity Engine
-
-Explore the game developed for this hackathon by downloading it from the link below:
-```bash
-https://www.foreachsoftware.it/elohell/
-```
 
 ### 🚀 Apple Developer Academy Final Project
-<p align="center"><a href="https://micheletrombone.netsons.org"><img width="35%" alt="Destiny's Altered Order!" src="./Assets/elohell.png" /></a></p>
+
+<table width="100%">
+<tr>
+<td width="60%">
+
 **Destiny's Altered Order**  
 A 2D role-playing game for mobile devices developed with Unity.  
 **Technologies:** C#, PlasticSCM, Unity Engine
 
-My team, **"Crow Crew,"** was featured in an article on La Repubblica during the Graduation Day at the Apple Developer Academy. We proudly presented our game, which was selected as one of the top projects in the final challenge of the academic year.
+</td>
+<td align="center">
+<a href="https://www.foreachsoftware.it/dao-appleacademy2023/">
+<img width="250px" alt="Elo Hell!" src="./Assets/dao.png" />
+</a>
+</td>
+</tr>
+</table>
 
 Check out the final project by downloading it from the link below:
 
