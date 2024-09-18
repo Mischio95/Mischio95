@@ -30,7 +30,7 @@ For me, teamwork is fundamental. I have experienced this in my past jobs as well
 
 I am excited to continue to grow professionally in this fascinating and dynamic field.
 
-## 🎮 Games:
+## 🕹️ Games: 
 
 ### 💻  Hackathon - Mobile Game Development (bitdrome - MKERS)
 
