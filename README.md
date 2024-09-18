@@ -33,8 +33,7 @@ I am excited to continue to grow professionally in this fascinating and dynamic 
 # 🎮 Games
 
 ### 🌟 Hackathon - Mobile Game Development (bitdrome - MKERS)
-<p align="left"><a href="https://micheletrombone.netsons.org"><img width="50%" alt="Elo Hell!" src="./Assets/elohell.png" /></a></p>
-<br />
+<p align="center"><a href="https://micheletrombone.netsons.org"><img width="35%" alt="Elo Hell!" src="./Assets/dao.png" /></a></p>
 **Elo Hell | October 20 - November 10, 2023**  
 Developed a demo of a mobile game with Unity.  
 **Technologies:** C#, PlasticSCM, Unity Engine
@@ -45,8 +44,7 @@ https://www.foreachsoftware.it/elohell/
 ```
 
 ### 🚀 Apple Developer Academy Final Project
-<p align="left"><a href="https://micheletrombone.netsons.org"><img width="50%" alt="Destiny's Altered Order!" src="./Assets/dao.png" /></a></p>
-<br />
+<p align="center"><a href="https://micheletrombone.netsons.org"><img width="35%" alt="Destiny's Altered Order!" src="./Assets/elohell.png" /></a></p>
 **Destiny's Altered Order**  
 A 2D role-playing game for mobile devices developed with Unity.  
 **Technologies:** C#, PlasticSCM, Unity Engine
