@@ -3,8 +3,6 @@
 <p align="center"><a href="https://micheletrombone.netsons.org"><img width="60%" alt="Hello, I'm Michele Trombone. I do open source!" src="./Assets/headertop.png" /></a></p>
 <br /> -->
 
-<!-- Start of centered ASCII art -->
-<div align="center">
 ```bash
      ^    ^    ^    ^    ^    ^    ^
     /W\  /E\  /L\  /C\  /O\  /M\  /E\
@@ -18,7 +16,7 @@
   ^    ^    ^    ^    ^    ^    ^    ^
       /G\  /I\  /T\  /H\  /U\  /B\  
      <___><___><___><___><___><___>
-</div> <!-- End of centered ASCII art --> ```
+ ```
 
 
 # 💁 About Me!
