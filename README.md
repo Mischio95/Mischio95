@@ -46,7 +46,7 @@ Developed a demo of a mobile game with Unity.<br>
 </td>
 <td align="center">
 <a href="https://www.foreachsoftware.it/elohell/">
-<img width="250px" alt="Elo Hell!" src="./Assets/dao.png" />
+<img width="300px" alt="Elo Hell!" src="./Assets/dao.png" />
 </a>
 </td>
 </tr>
@@ -72,7 +72,7 @@ A 2D role-playing game for mobile devices developed with Unity.
 </td>
 <td align="center">
 <a href="https://www.foreachsoftware.it/dao-appleacademy2023/">
-<img width="250px" alt="Elo Hell!" src="./Assets/elohell.png" />
+<img width="300px" alt="Elo Hell!" src="./Assets/elohell.png" />
 </a>
 </td>
 </tr>
