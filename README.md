@@ -18,7 +18,7 @@
  ```
 
 
-# 💁 About Me!
+## 💁 About Me!
 
 Hi! I'm Michele Trombone, a developer who is passionate about technology and programming, with a special interest in the world of video games and all that surrounds it. I enjoy exploring various aspects of the industry, from game design to creating immersive experiences, including the importance of audio and music. This passion for technology drives me to seek opportunities in different fields, contributing to projects of various types.
 
@@ -30,9 +30,9 @@ For me, teamwork is fundamental. I have experienced this in my past jobs as well
 
 I am excited to continue to grow professionally in this fascinating and dynamic field.
 
-# 🎮 Games
+## 🎮 Games:
 
-### 🌟 Hackathon - Mobile Game Development (bitdrome - MKERS)
+### 💻  Hackathon - Mobile Game Development (bitdrome - MKERS)
 
 <table>
 <tr>
@@ -60,7 +60,7 @@ https://www.foreachsoftware.it/elohell/
 ```
 
 
-### 🚀 Apple Developer Academy Final Project
+###  Apple Developer Academy Final Project
 
 <table>
 <tr>
@@ -86,5 +86,5 @@ Check out the final project by downloading it from the link below:
 https://www.foreachsoftware.it/dao-appleacademy2023/
 ```
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/michele_trombone#9380) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/michele_trombone/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michele-trombone-470458233) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@micheletrombone) [![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=internet-explorer&logoColor=white)](https://www.micheletrombone.netsons.org)
