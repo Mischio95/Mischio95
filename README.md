@@ -17,9 +17,9 @@ For me, teamwork is fundamental. I have experienced this in my past jobs as well
 
 I am excited to continue to grow professionally in this fascinating and dynamic field.
 
-## 🎮 Games
+## <span style="color: #dfdad8;"> 🎮 Games </span>
 
-### Hackathon - Mobile Game Development (bitdrome - MKERS)
+### <span style="color: #dfdad8;">Hackathon - Mobile Game Development (bitdrome - MKERS)</span>
 
 **Elo Hell | October 20 - November 10, 2023**  
 Developed a demo of a mobile game with Unity.  
@@ -29,7 +29,7 @@ You can download and try out the game developed for this hackathon from the link
 
 - **[Download the Hackathon Game](https://www.foreachsoftware.it/elohell/)**
 
-### Apple Developer Academy Final Project
+### <span style="color: #dfdad8;">Apple Developer Academy Final Project</span>
 
 **Destiny's Altered Order**  
 A 2D role-playing game for mobile devices developed with Unity.  
