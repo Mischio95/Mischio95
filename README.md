@@ -3,6 +3,21 @@
 <p align="center"><a href="https://micheletrombone.netsons.org"><img width="60%" alt="Hello, I'm Michele Trombone. I do open source!" src="./Assets/headertop.png" /></a></p>
 <br />
 
+```bash
+     ^    ^    ^    ^    ^    ^    ^
+    /W\  /E\  /L\  /C\  /O\  /M\  /E\
+   <___><___><___><___><___><___><___>
+                 ^    ^
+                /T\  /O\
+               <___><___>
+     ^    ^    ^    ^    ^    ^    ^
+    /M\  /I\  /S\  /C\  /H\  /I\  /O\
+   <___><___><___><___><___><___><___>
+  ^    ^    ^    ^    ^    ^    ^    ^
+      /G\  /I\  /T\  /H\  /U\  /B\  
+     <___><___><___><___><___><___>
+```
+
 # 💁 About Me!
 
 Hi! I'm Michele Trombone, a developer who is passionate about technology and programming, with a special interest in the world of video games and all that surrounds it. I enjoy exploring various aspects of the industry, from game design to creating immersive experiences, including the importance of audio and music. This passion for technology drives me to seek opportunities in different fields, contributing to projects of various types.
@@ -25,7 +40,7 @@ Developed a demo of a mobile game with Unity.
 
 Explore the game developed for this hackathon by downloading it from the link below:
 ```bash
-- [Download Elo Hell](https://www.foreachsoftware.it/elohell/)
+https://www.foreachsoftware.it/elohell/
 ```
 
 ## 🚀 Apple Developer Academy Final Project
@@ -39,7 +54,7 @@ My team, **"Crow Crew,"** was featured in an article on La Repubblica during the
 Check out the final project by downloading it from the link below:
 
 ```bash
-- [Download Destiny's Altered Order](https://www.foreachsoftware.it/dao-appleacademy2023/)
+https://www.foreachsoftware.it/dao-appleacademy2023/
 ```
 
 # 🌐 Socials:
