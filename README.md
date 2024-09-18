@@ -39,8 +39,8 @@ I am excited to continue to grow professionally in this fascinating and dynamic 
 <td width="60%">
 
 **Elo Hell | October 20 - November 10, 2023**  
-Developed a demo of a mobile game with Unity.
-2D side-scrolling game with metroidvania mechanics.
+Developed a demo of a mobile game with Unity.<br>
+2D side-scrolling game with metroidvania mechanics.<br>
 **Technologies:** C#, PlasticSCM, Unity Engine  
 
 </td>
@@ -72,7 +72,7 @@ A 2D role-playing game for mobile devices developed with Unity.
 </td>
 <td align="center">
 <a href="https://www.foreachsoftware.it/dao-appleacademy2023/">
-<img width="250px" alt="Elo Hell!" src="./Assets/dao.png" />
+<img width="250px" alt="Elo Hell!" src="./Assets/elohell.png" />
 </a>
 </td>
 </tr>
