@@ -31,6 +31,30 @@ For me, teamwork is fundamental. I have experienced this in my past jobs as well
 I am excited to continue to grow professionally in this fascinating and dynamic field.
 
 # 🎮 Games
+# 🌟 Hackathon - Mobile Game Development (bitdrome - MKERS)
+
+<table>
+<tr>
+<td>
+
+**Elo Hell | October 20 - November 10, 2023**  
+Developed a demo of a mobile game with Unity.  
+**Technologies:** C#, PlasticSCM, Unity Engine  
+
+</td>
+<td align="center">
+<a href="https://micheletrombone.netsons.org">
+<img width="250px" alt="Elo Hell!" src="./Assets/dao.png" />
+</a>
+</td>
+</tr>
+</table>
+
+Explore the game developed for this hackathon by downloading it from the link below:
+
+```bash
+https://www.foreachsoftware.it/elohell/
+```
 
 ### 🌟 Hackathon - Mobile Game Development (bitdrome - MKERS)
 <p align="center"><a href="https://micheletrombone.netsons.org"><img width="35%" alt="Elo Hell!" src="./Assets/dao.png" /></a></p>
