@@ -6,7 +6,6 @@
 <!-- Start of centered ASCII art -->
 
 <p align="center">
-     <p align="center">
 ```bash
      ^    ^    ^    ^    ^    ^    ^
     /W\  /E\  /L\  /C\  /O\  /M\  /E\
@@ -20,8 +19,7 @@
   ^    ^    ^    ^    ^    ^    ^    ^
       /G\  /I\  /T\  /H\  /U\  /B\  
      <___><___><___><___><___><___>
-```
-     </p>
+</p>
 
 # 💁 About Me!
 
