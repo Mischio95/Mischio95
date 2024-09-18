@@ -39,7 +39,8 @@ I am excited to continue to grow professionally in this fascinating and dynamic 
 <td width="60%">
 
 **Elo Hell | October 20 - November 10, 2023**  
-Developed a demo of a mobile game with Unity.  
+Developed a demo of a mobile game with Unity.
+2D side-scrolling game with metroidvania mechanics.
 **Technologies:** C#, PlasticSCM, Unity Engine  
 
 </td>
