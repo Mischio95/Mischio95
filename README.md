@@ -41,9 +41,39 @@ You can download the final project from the link below:
 
 - **[Download the Apple Developer Academy Final Project](https://www.foreachsoftware.it/dao-appleacademy2023/)**
 
----
+## 🛠 Skills
 
-For any questions or feedback, feel free to contact me at [your-email@example.com](mailto:your-email@example.com).
+### C
+![C Logo](https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg)
 
+### C#
+![C# Logo](https://upload.wikimedia.org/wikipedia/commons/6/6a/C%23_Logo.png)
+
+### Unity
+![Unity Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Unity_Technologies_logo.svg/2560px-Unity_Technologies_logo.svg.png)
+
+### Swift
+![Swift Logo](https://upload.wikimedia.org/wikipedia/commons/4/4f/Swift_logo_2014.svg)
+
+### SwiftUI
+![SwiftUI Logo](https://developer.apple.com/assets/elements/icons/swiftui/swiftui-128x128.png)
+
+### SpriteKit
+![SpriteKit Logo](https://developer.apple.com/assets/elements/icons/spritekit/spritekit-128x128.png)
+
+### Unreal Engine
+![Unreal Engine Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Unreal_Engine_logo.svg/1200px-Unreal_Engine_logo.svg.png)
+
+### Java
+![Java Logo](https://upload.wikimedia.org/wikipedia/commons/6/6e/Java_Logo.svg)
+
+### WordPress
+![WordPress Logo](https://upload.wikimedia.org/wikipedia/commons/8/81/WordPress_logo.svg)
+
+### HTML
+![HTML Logo](https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg)
+
+### CSS
+![CSS Logo](https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg)
 
 
