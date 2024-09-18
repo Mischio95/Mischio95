@@ -41,7 +41,7 @@ I am excited to continue to grow professionally in this fascinating and dynamic 
 <p style="font-size: 25px; font-weight: bold;">ELO HELL | OCTOBER 20 - NOVEMBER 10, 2023</p>  
 Developed a demo of a mobile game with Unity.<br>
 2D side-scrolling game with metroidvania mechanics.<br>
-**Technologies:** C#, PlasticSCM, Unity Engine  
+<b>Technologies:</b> C#, PlasticSCM, Unity Engine  
 
 </td>
 <td align="center">
@@ -65,9 +65,9 @@ https://www.foreachsoftware.it/elohell/
 <tr>
 <td width="60%">
 
-<p style="font-size: 25px; font-weight: bold;">DESTINY'S ALTERED ORDER</p><BR>  
+<p style="font-size: 25px; font-weight: bold;">DESTINY'S ALTERED ORDER </p>
 A 2D role-playing game for mobile devices developed with Unity.  
-**Technologies:** C#, PlasticSCM, Unity Engine
+<b>Technologies:</b> C#, PlasticSCM, Unity Engine
 
 </td>
 <td align="center">
