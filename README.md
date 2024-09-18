@@ -34,9 +34,9 @@ I am excited to continue to grow professionally in this fascinating and dynamic 
 
 ### 🌟 Hackathon - Mobile Game Development (bitdrome - MKERS)
 
-<table width="100%">
+<table>
 <tr>
-<td width="60%">
+<td>
 
 <b>ELO HELL | OCTOBER 20 - NOVEMBER 10, 2023</b><br> 
 <br> 
@@ -62,9 +62,9 @@ https://www.foreachsoftware.it/elohell/
 
 ### 🚀 Apple Developer Academy Final Project
 
-<table width="100%">
+<table>
 <tr>
-<td width="60%">
+<td>
 
 <b>DESTINY'S ALTERED ORDER </b><br>
 <br> 
