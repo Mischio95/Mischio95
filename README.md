@@ -1,23 +1,7 @@
 # 🎉 Welcome to my profile!
-<br />
+<!-- <br />
 <p align="center"><a href="https://micheletrombone.netsons.org"><img width="60%" alt="Hello, I'm Michele Trombone. I do open source!" src="./Assets/headertop.png" /></a></p>
-<br />
-
-<!-- Start of centered ASCII art -->
-```bash
-     ^    ^    ^    ^    ^    ^    ^
-    /W\  /E\  /L\  /C\  /O\  /M\  /E\
-   <___><___><___><___><___><___><___>
-                 ^    ^
-                /T\  /O\
-               <___><___>
-     ^    ^    ^    ^    ^    ^    ^
-    /M\  /I\  /S\  /C\  /H\  /I\  /O\
-   <___><___><___><___><___><___><___>
-  ^    ^    ^    ^    ^    ^    ^    ^
-      /G\  /I\  /T\  /H\  /U\  /B\  
-     <___><___><___><___><___><___>
-```
+<br /> -->
 
 <!-- Start of centered ASCII art -->
 <div align="center">
