@@ -2,8 +2,8 @@
 <p align="center"><a href="https://micheletrombone.netsons.org"><img width="60%" alt="Hello, I'm Michele Trombone. I do open source!" src="./Assets/headertop.png" /></a></p>
 <br /> -->
                                                                    
-<span style="color: lightgreen;>                          
  ```html
+<span style="color: lightgreen;>                          
 
   __          ________ _      _____ ____  __  __ ______          
   \ \        / /  ____| |    / ____/ __ \|  \/  |  ____|         
@@ -24,9 +24,9 @@
 
 ╭──(mischio95@github)-[~]
 ╰─$ sudo -i
-                                                                                                                                                  
- ```
 </span>
+                                                                                                                                                
+ ```
 
 ## 💁 About Me!
 
