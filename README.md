@@ -98,4 +98,12 @@ https://www.foreachsoftware.it/dao-appleacademy2023/
 
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/michele_trombone#9380) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/michele_trombone/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michele-trombone-470458233) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@micheletrombone) [![Website](https://img.shields.io/badge/Website-%23000000.svg?logo=internet-explorer&logoColor=white)](https://www.micheletrombone.netsons.org)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/michele_trombone#9380) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/michele_trombone/) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michele-trombone-470458233) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@micheletrombone) 
+
+## 🖥️ Personal WebSite:
+
+[Website](https://www.micheletrombone.netsons.org)
+
+
+
+
