@@ -3,7 +3,7 @@
 <br /> -->
                                                                    
                             
-                                                                                                                                                
+ <pre style="color: lightgreen; background-color: black;">                                                                                                                                               
  ```
   __          ________ _      _____ ____  __  __ ______          
   \ \        / /  ____| |    / ____/ __ \|  \/  |  ____|         
@@ -26,6 +26,7 @@
 ╰─$ sudo -i
                                                                                                                                                   
  ```
+  </pre>
 
 
 ## 💁 About Me!
