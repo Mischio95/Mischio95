@@ -2,7 +2,7 @@
 <p align="center"><a href="https://micheletrombone.netsons.org"><img width="60%" alt="Hello, I'm Michele Trombone. I do open source!" src="./Assets/headertop.png" /></a></p>
 <br /> -->
                                                                    
-  <pre style="color: lightgreen;>                          
+<span style="color: lightgreen;>                          
  ```html
 
   __          ________ _      _____ ____  __  __ ______          
@@ -26,7 +26,7 @@
 ╰─$ sudo -i
                                                                                                                                                   
  ```
-</pre>
+</span>
 
 ## 💁 About Me!
 
