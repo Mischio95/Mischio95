@@ -2,8 +2,8 @@
 <p align="center"><a href="https://micheletrombone.netsons.org"><img width="60%" alt="Hello, I'm Michele Trombone. I do open source!" src="./Assets/headertop.png" /></a></p>
 <br /> -->
                                                                    
- ```html 
-$${\color{green}Green}$$	  __          ________ _      _____ ____  __  __ ______          
+ ```
+  __          ________ _      _____ ____  __  __ ______          
   \ \        / /  ____| |    / ____/ __ \|  \/  |  ____|         
    \ \  /\  / /| |__  | |   | |   | |  | | \  / | |__            
     \ \/  \/ / |  __| | |   | |   | |  | | |\/| |  __|           
