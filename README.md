@@ -2,9 +2,9 @@
 <p align="center"><a href="https://micheletrombone.netsons.org"><img width="60%" alt="Hello, I'm Michele Trombone. I do open source!" src="./Assets/headertop.png" /></a></p>
 <br /> -->
                                                                    
-                            
+  <pre style="color: lightgreen;>                          
  ```html
-<pre style="color: lightgreen;>
+
   __          ________ _      _____ ____  __  __ ______          
   \ \        / /  ____| |    / ____/ __ \|  \/  |  ____|         
    \ \  /\  / /| |__  | |   | |   | |  | | \  / | |__            
@@ -21,12 +21,12 @@
   | | |_ | | |    | |  |  __  | |  | |  _ <                      
   | |__| |_| |_   | |  | |  | | |__| | |_) |                     
    \_____|_____|  |_|  |_|  |_|\____/|____/  
-</pre>
+
 ╭──(mischio95@github)-[~]
 ╰─$ sudo -i
                                                                                                                                                   
  ```
-
+</pre>
 
 ## 💁 About Me!
 
