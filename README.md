@@ -101,7 +101,7 @@ https://www.foreachsoftware.it/dao-appleacademy2023/
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michele-trombone-470458233) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/michele_trombone#9380) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/michele_trombone/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@micheletrombone) 
 
 ## 🖥️ Personal WebSite:
-<p align="center"><a href="https://micheletrombone.netsons.org"><img width="50%" alt="Hello, I'm Michele Trombone. I do open source!" src="./Assets/logoparticles.png" /></a></p>
+<p align="center"><a href="https://micheletrombone.netsons.org"><img width="20%" alt="Hello, I'm Michele Trombone. I do open source!" src="./Assets/logoparticles.png" /></a></p>
 
 ```bash
 https://www.micheletrombone.netsons.org
