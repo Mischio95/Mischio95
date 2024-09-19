@@ -95,7 +95,7 @@ https://www.foreachsoftware.it/dao-appleacademy2023/
 
 ## 👨🏻‍💻 Tech Skills:
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,swift,html,css,git,unreal,unity,vscode,eclipse,linux,postman,notion,ai,ps,figma" />
+    <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,swift,wordpress,html,css,git,unreal,unity,vscode,eclipse,linux,postman,notion,ai,ps,figma" />
   </a>
 
 <!--
@@ -103,8 +103,18 @@ https://www.foreachsoftware.it/dao-appleacademy2023/
 
 -->
 ## 🌐 Socials:
+<!--
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michele-trombone-470458233) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/michele_trombone#9380) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/michele_trombone/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@micheletrombone) 
-
+-->
+  <a href="[https://skillicons.dev](https://www.linkedin.com/in/michele-trombone-470458233)">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+    <a href="https://www.instagram.com/michele_trombone/">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+    <a href="https://discord.gg/michele_trombone">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
 
 ## 🖥️ Personal WebSite:
 
