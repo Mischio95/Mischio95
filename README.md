@@ -53,7 +53,7 @@ Developed a demo of a mobile game with Unity.<br>
 
 </td>
 <td align="center">
-<a href="https://www.foreachsoftware.it/elohell/">
+<a href="https://github.com/Mischio95/EloHell/">
 <img width="300px" alt="Elo Hell!" src="./Assets/dao.png" />
 </a>
 </td>
@@ -63,7 +63,7 @@ Developed a demo of a mobile game with Unity.<br>
 Explore the game developed for this hackathon by downloading it from the link below:
 
 ```bash
-https://www.foreachsoftware.it/elohell/
+https://github.com/Mischio95/EloHell/
 ```
 
 
