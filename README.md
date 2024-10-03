@@ -80,7 +80,7 @@ A 2D role-playing game for mobile devices developed with Unity.
 
 </td>
 <td align="center">
-<a href="https://www.foreachsoftware.it/dao-appleacademy2023/">
+<a href="https://github.com/Mischio95/DAO">
 <img width="300px" alt="Elo Hell!" src="./Assets/elohell.png" />
 </a>
 </td>
@@ -90,7 +90,7 @@ A 2D role-playing game for mobile devices developed with Unity.
 Check out the final project by downloading it from the link below:
 
 ```bash
-https://www.foreachsoftware.it/dao-appleacademy2023/
+https://github.com/Mischio95/DAO
 ```
 
 ## 👨🏻‍💻 Tech Skills:
