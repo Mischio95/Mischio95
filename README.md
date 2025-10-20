@@ -116,13 +116,6 @@ https://github.com/Mischio95/DAO
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 
-## 🖥️ Personal WebSite:
-
-<p align="center"><a href="https://micheletrombone.netsons.org"><img width="15%" alt="Hello, I'm Michele Trombone. I do open source!" src="./Assets/logoparticles.png" /></a></p>
-
-```bash
-https://www.micheletrombone.netsons.org
-```
 
 
 
